@@ -1,0 +1,10 @@
+name: CrystalArena
+version: 1.0
+main: dev.dani.crystalarena.CrystalArena
+api-version: "26.2"
+commands:
+  arena:
+    description: Manage the crystal arena
+permissions:
+  crystalarena.admin:
+    default: op
